@@ -13,8 +13,8 @@ The official guide: [Kotlin for FTC](https://ftc-docs.firstinspires.org/en/lates
 ## Flavors
 
 - [Default](https://github.com/KingsSack/FTC-Kotlin-Quickstart) *current*
-- [RoadRunner](https://github.com/KingsSack/FTC-Kotlin-Quickstart) (Coming Soon)
-- [Volt](https://github.com/KingsSack/FTC-Kotlin-Quickstart) (Coming Soon)
+- [RoadRunner](https://github.com/KingsSack/FTC-Kotlin-Quickstart/tree/roadrunner)
+- [Volt](https://github.com/KingsSack/FTC-Kotlin-Quickstart/tree/volt) (Coming Soon)
 
 ## Getting Started
 
@@ -31,5 +31,5 @@ The official guide: [Kotlin for FTC](https://ftc-docs.firstinspires.org/en/lates
 ## More Info
 
 - The [Default](https://github.com/KingsSack/FTC-Kotlin-Quickstart) flavor is a basic template to quickstart using kotlin for FTC
-- The [RoadRunner](https://github.com/KingsSack/FTC-Kotlin-Quickstart) flavor includes the [RoadRunner](https://github.com/acmerobotics/road-runner) library for advanced path following and more (Coming Soon)
-- The [Volt](https://github.com/KingsSack/FTC-Kotlin-Quickstart) flavor includes [RoadRunner](https://github.com/acmerobotics/road-runner) and [Volt](https://github.com/KingsSack/volt) for more flexibility and control over your code (Coming Soon)
+- The [RoadRunner](https://github.com/KingsSack/FTC-Kotlin-Quickstart/tree/roadrunner) flavor includes the [RoadRunner](https://github.com/acmerobotics/road-runner) library for advanced path following and more
+- The [Volt](https://github.com/KingsSack/FTC-Kotlin-Quickstart/tree/volt) flavor includes [RoadRunner](https://github.com/acmerobotics/road-runner) and [Volt](https://github.com/KingsSack/volt) for more flexibility and control over your code (Coming Soon)
