@@ -14,12 +14,22 @@
 // Include common definitions from above.
 apply from: '../build.common.gradle'
 apply from: '../build.dependencies.gradle'
+apply plugin: 'org.jetbrains.kotlin.android'
 
 android {
-    namespace = 'org.firstinspires.ftc.teamcode'
+    compileSdk 34
 
     packagingOptions {
         jniLibs.useLegacyPackaging true
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = "1.8"
     }
 }
 
