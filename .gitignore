@@ -1,6 +1,5 @@
 # Built application files
 *.aar
-*.ap_
 *.aab
 
 !libs/*.aar
